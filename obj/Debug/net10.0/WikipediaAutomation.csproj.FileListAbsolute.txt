@@ -548,3 +548,4 @@ C:\Projects\WikipediaAutomation\obj\Debug\net10.0\refint\WikipediaAutomation.dll
 C:\Projects\WikipediaAutomation\obj\Debug\net10.0\WikipediaAutomation.pdb
 C:\Projects\WikipediaAutomation\obj\Debug\net10.0\WikipediaAutomation.genruntimeconfig.cache
 C:\Projects\WikipediaAutomation\obj\Debug\net10.0\ref\WikipediaAutomation.dll
+C:\Projects\WikipediaAutomation\obj\Debug\net10.0\WikipediaAutomation.sourcelink.json
